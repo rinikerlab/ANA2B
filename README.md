@@ -10,8 +10,8 @@ Necessary datasets (need to be downloaded separately):
 For Training:
 - DES5M: https://www.nature.com/articles/s41597-021-00833-x
 - AlphaML: https://www.nature.com/articles/s41597-019-0157-8
-- Intramolecular Gradients/Multipoles (PBE0/def2-TZVP): Published as part of the manuscript.
-
+- Intramolecular Gradients/Multipoles (PBE0/def2-TZVP): https://www.research-collection.ethz.ch/handle/20.500.11850/626683
+- 
 For Validation and Testing:
 - BioFragmentDB: http://vergil.chemistry.gatech.edu/active_bfdb/bfdb/cgi-bin/bfdb.py
 - S7L: https://www.nature.com/articles/s41467-021-24119-3
