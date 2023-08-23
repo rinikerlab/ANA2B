@@ -1,5 +1,5 @@
 # ANA2B
-Repository for the ANA2B publication. 
+Repository for the ANA2B publication ([arXiv]([https://duckduckgo.com](https://arxiv.org/abs/2308.08984))). 
 
 ## Reproduction / Examples
 
@@ -34,7 +34,11 @@ Examples and scripts necessary to reproduce results can be found in
 ## Citation
 
 ```
-@article{
+@article{ANA2b
+      title={Hybrid Classical/Machine-Learning Force Fields for the Accurate Description of Molecular Condensed-Phase Systems}, 
+      author={Moritz Thürlemann and Sereina Riniker},
+      year={2023},
+      journal={arXiv:2308.08984},
 }
 ```
 
