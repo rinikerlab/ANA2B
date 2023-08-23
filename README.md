@@ -1,5 +1,5 @@
 # ANA2B
-Repository for the ANA2B publication (([arXiv](https://arxiv.org/abs/2308.08984))). 
+Repository for the ANA2B publication ([arXiv](https://arxiv.org/abs/2308.08984)). 
 
 ## Reproduction / Examples
 
