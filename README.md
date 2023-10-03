@@ -31,6 +31,19 @@ Examples and scripts necessary to reproduce results can be found in
 - ANA2B model training: source/anaff/train_model_alpha_gnn.py
 - A small example for general usage: source/examples/example.ipynb
 
+## Installation Instructions
+
+After cloning the repo, following package are required:
+- Tensorflow
+- ase
+- mdtraj
+- graph_nets
+- Simple DFT-D3
+
+Exemplary usecases can be found in
+- source/examples/example.ipynb
+- source/anaff/md/run_md_ase.py
+
 ## Citation
 
 ```
