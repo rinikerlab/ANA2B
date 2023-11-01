@@ -1,5 +1,5 @@
 # ANA2B
-Repository for the [ANA2B](https://arxiv.org/abs/2308.08984) publication. 
+Repository for the [ANA2B](https://pubs.rsc.org/en/content/articlelanding/2023/sc/d3sc04317g) publication. 
 
 ## Reproduction / Examples
 
@@ -47,11 +47,12 @@ Exemplary usecases can be found in
 ## Citation
 
 ```
-@article{ANA2b
-      title={Hybrid Classical/Machine-Learning Force Fields for the Accurate Description of Molecular Condensed-Phase Systems}, 
-      author={Moritz Thürlemann and Sereina Riniker},
-      year={2023},
-      journal={arXiv:2308.08984},
+@article{ANA2B
+      author ="Thürlemann, Moritz and Riniker, Sereina",
+      title  ="Hybrid classical/machine-learning force fields for the accurate description of molecular condensed-phase systems",
+      journal  ="Chem. Sci.",
+      year  ="2023",
+      doi  ="10.1039/D3SC04317G",
 }
 ```
 
